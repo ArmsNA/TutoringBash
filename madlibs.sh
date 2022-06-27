@@ -1,6 +1,6 @@
 #!/bin/bash
 
-myname="Jose Mayor"
+myname="ArmsNA"
 echo "This is $myname's bash rendition of the Madlibs assignment!"
 for (( i=0; i<3; i++ ))
 do
